@@ -23,7 +23,8 @@
 요즘, 제주도는 많은 사람들의 심적 도피처 같습니다. 사람들은 도망간 곳에 낙원이 없다고 하지만, 제주도에는 도시의 삶에서 도망가 새로운 삶을 시작한 사람들이 많습니다. 우리는 그 사람들의 이야기를 듣고 우리가 생각하는 ‘도망’에대한 생각을 조금 바꿔보고 싶습니다.
 
 
-#Who are we?
-##Developer Narae
+# Who are we?
 
-##Designer Yebin
+## Developer Narae
+
+## Designer Yebin
